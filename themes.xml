@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CityRunner" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#FF020B18</item>
+        <item name="android:navigationBarColor">#FF020B18</item>
+        <item name="android:windowBackground">#FF020B18</item>
+    </style>
+
+    <style name="Theme.CityRunner.Fullscreen" parent="Theme.CityRunner">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- City skyline silhouette -->
+    <path
+        android:pathData="M10,80 L10,50 L20,50 L20,40 L28,40 L28,50 L35,50 L35,35 L45,35 L45,50 L52,50 L52,42 L60,42 L60,50 L68,50 L68,30 L78,30 L78,50 L85,50 L85,45 L95,45 L95,50 L98,50 L98,80 Z"
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.9"/>
+
+    <!-- Runner figure -->
+    <path
+        android:pathData="M54,58 A5,5 0 1,0 54,48 A5,5 0 0,0 54,58 Z"
+        android:fillColor="#E63946"/>
+    <path
+        android:pathData="M50,60 L58,60 L60,72 L56,72 L54,65 L52,72 L48,72 Z"
+        android:fillColor="#E63946"/>
+    <path
+        android:pathData="M48,62 L43,67 M60,62 L65,67"
+        android:strokeColor="#E63946"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"/>
+
+</vector>
